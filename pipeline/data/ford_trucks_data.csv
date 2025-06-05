@@ -1,0 +1,501 @@
+model,color,fuel_type,transmission,price,manufacture_date,sale_date,state,mileage
+Ford F-150 Lightning,Carbonized Gray,Gasoline,Automatic,88008.72,2024-11-28,2025-02-22,Texas,55138.8
+Ford Maverick,Iconic Silver,Hybrid,Manual,83894.25,2024-08-07,2024-11-04,Florida,84498.1
+Ford F-450 Super Duty,Rapid Red,Diesel,Automatic,42061.61,2024-11-16,2024-11-25,Michigan,92239.3
+Ford F-350 Super Duty,Stone Gray,Hybrid,Manual,57553.91,2025-04-01,2025-06-01,Pennsylvania,94601.2
+Ford Maverick,Carbonized Gray,Hybrid,Manual,81586.0,2024-05-07,2024-08-25,Georgia,110903.4
+Ford F-750,Rapid Red,Hybrid,Manual,51881.94,2024-02-26,2024-05-19,Texas,104203.9
+Ford F-750,Rapid Red,Electric,Manual,48955.5,2025-03-09,2025-05-12,Ohio,42791.6
+Ford F-650,Stone Gray,Diesel,Automatic,83054.19,2024-02-28,2024-04-28,Florida,138715.0
+Ford F-650,Carbonized Gray,Gasoline,Automatic,63827.32,2024-03-09,2024-04-25,Pennsylvania,156271.1
+Ford F-150 Lightning,Antimatter Blue,Electric,Automatic,91728.55,2023-10-13,2023-12-04,Georgia,104637.4
+Ford F-350 Super Duty,Antimatter Blue,Gasoline,Automatic,36101.17,2024-09-03,2024-11-22,Texas,103122.6
+Ford F-150,Stone Gray,Electric,Automatic,29860.95,2023-12-31,2024-04-27,Florida,72401.0
+Ford F-650,Iconic Silver,Gasoline,Manual,53597.69,2023-06-29,2023-07-11,Florida,23068.4
+Ford F-150,Iconic Silver,Gasoline,Manual,33377.99,2025-03-04,2025-05-11,Texas,132374.9
+Ford Maverick,Rapid Red,Diesel,Manual,62834.59,2024-09-11,2024-11-10,Michigan,83738.8
+Ford F-750,Stone Gray,Electric,Automatic,66442.08,2025-03-25,2025-06-03,Texas,22347.8
+Ford F-650,Rapid Red,Hybrid,Automatic,91951.07,2024-04-13,2024-06-14,Pennsylvania,24001.9
+Ford F-150,Agate Black,Hybrid,Automatic,36970.84,2023-09-18,2023-12-23,Georgia,151573.1
+Ford F-350 Super Duty,Agate Black,Electric,Manual,32767.96,2024-03-30,2024-06-19,Texas,91264.6
+Ford F-150,Agate Black,Hybrid,Manual,57396.7,2024-12-10,2024-12-17,Ohio,33538.9
+Ford F-150 Lightning,Antimatter Blue,Gasoline,Automatic,76762.13,2024-05-16,2024-07-19,Michigan,122161.6
+Ford Ranger,Carbonized Gray,Electric,Manual,69770.91,2024-12-23,2025-04-10,Georgia,119665.4
+Ford F-650,Oxford White,Gasoline,Automatic,44540.2,2023-12-26,2024-04-21,Texas,142356.5
+Ford F-650,Iconic Silver,Hybrid,Automatic,51143.66,2024-05-08,2024-08-24,California,95500.0
+Ford Ranger,Rapid Red,Hybrid,Manual,45499.24,2024-02-28,2024-04-21,Pennsylvania,125201.6
+Ford Ranger,Antimatter Blue,Diesel,Manual,35738.99,2024-04-17,2024-05-13,Michigan,52524.2
+Ford Ranger,Carbonized Gray,Hybrid,Automatic,50866.17,2024-09-21,2024-10-23,Michigan,105321.3
+Ford F-250 Super Duty,Iconic Silver,Electric,Manual,72857.65,2024-02-25,2024-04-10,Ohio,95973.0
+Ford F-650,Carbonized Gray,Gasoline,Automatic,50151.1,2023-10-04,2023-12-27,Michigan,86565.2
+Ford F-450 Super Duty,Stone Gray,Diesel,Automatic,94731.78,2024-07-26,2024-10-30,Michigan,157005.0
+Ford Ranger,Carbonized Gray,Electric,Manual,69169.52,2023-08-04,2023-08-25,Oklahoma,11373.6
+Ford F-150,Carbonized Gray,Diesel,Manual,50154.67,2023-12-11,2023-12-30,California,65652.0
+Ford F-150,Stone Gray,Electric,Automatic,56124.23,2025-01-24,2025-03-11,Pennsylvania,130154.7
+Ford F-450 Super Duty,Iconic Silver,Diesel,Automatic,50101.88,2025-03-24,2025-07-19,Michigan,55432.0
+Ford F-250 Super Duty,Iconic Silver,Diesel,Automatic,65552.6,2025-04-05,2025-06-06,Oklahoma,89533.5
+Ford Maverick,Carbonized Gray,Diesel,Manual,74187.74,2025-03-09,2025-05-15,Texas,132137.3
+Ford F-150 Lightning,Iconic Silver,Gasoline,Automatic,43951.12,2023-11-02,2024-02-08,Texas,58755.8
+Ford F-350 Super Duty,Agate Black,Hybrid,Automatic,57162.55,2024-05-23,2024-09-11,Pennsylvania,46962.0
+Ford F-250 Super Duty,Rapid Red,Diesel,Automatic,82551.9,2024-04-28,2024-07-14,Oklahoma,92965.6
+Ford F-250 Super Duty,Carbonized Gray,Diesel,Automatic,53633.6,2024-08-06,2024-11-06,Michigan,71499.1
+Ford F-750,Agate Black,Gasoline,Manual,42971.4,2025-01-21,2025-04-04,Ohio,42231.8
+Ford F-750,Stone Gray,Gasoline,Automatic,70285.44,2023-09-16,2023-12-06,Oklahoma,10432.1
+Ford Maverick,Carbonized Gray,Gasoline,Automatic,70883.02,2023-07-26,2023-11-09,California,72320.1
+Ford F-150 Lightning,Oxford White,Electric,Automatic,77146.13,2025-04-15,2025-05-28,Oklahoma,15506.7
+Ford F-650,Antimatter Blue,Electric,Manual,61301.43,2024-01-17,2024-02-06,Texas,75943.1
+Ford Maverick,Antimatter Blue,Diesel,Manual,84203.97,2024-07-22,2024-09-25,California,52770.2
+Ford F-150,Stone Gray,Hybrid,Manual,63355.3,2023-12-22,2024-03-13,Oklahoma,100047.0
+Ford F-350 Super Duty,Agate Black,Diesel,Manual,50370.0,2025-02-23,2025-04-15,Oklahoma,69786.8
+Ford F-750,Oxford White,Hybrid,Automatic,72153.39,2024-09-15,2024-10-23,Florida,72210.0
+Ford F-650,Rapid Red,Diesel,Manual,49135.06,2023-11-15,2024-02-04,California,68240.1
+Ford F-250 Super Duty,Stone Gray,Gasoline,Automatic,32806.78,2024-06-11,2024-09-09,Michigan,60212.5
+Ford F-150 Lightning,Agate Black,Electric,Automatic,40629.99,2023-12-17,2024-02-09,Michigan,99367.3
+Ford Ranger,Agate Black,Electric,Manual,57453.3,2023-10-14,2024-02-08,Oklahoma,5240.1
+Ford Maverick,Iconic Silver,Hybrid,Manual,54657.73,2025-01-12,2025-03-25,California,5760.3
+Ford F-250 Super Duty,Stone Gray,Gasoline,Manual,80352.91,2025-03-22,2025-07-03,Florida,2028.7
+Ford F-450 Super Duty,Antimatter Blue,Hybrid,Automatic,31949.47,2024-09-12,2024-10-30,California,10454.8
+Ford F-150,Iconic Silver,Electric,Automatic,63484.52,2024-08-09,2024-10-17,Florida,114195.1
+Ford F-650,Agate Black,Diesel,Manual,28376.33,2024-08-12,2024-10-12,California,120247.7
+Ford F-750,Rapid Red,Diesel,Manual,68879.54,2023-11-10,2024-01-22,Oklahoma,26384.0
+Ford F-350 Super Duty,Agate Black,Hybrid,Manual,40122.77,2024-06-04,2024-08-06,Oklahoma,98396.3
+Ford F-150 Lightning,Iconic Silver,Hybrid,Automatic,94623.12,2023-07-19,2023-09-18,Georgia,41482.9
+Ford F-150 Lightning,Iconic Silver,Gasoline,Automatic,47172.18,2024-04-12,2024-07-20,Ohio,144081.4
+Ford F-250 Super Duty,Carbonized Gray,Hybrid,Automatic,82155.04,2023-12-05,2024-03-05,Florida,78711.8
+Ford F-350 Super Duty,Agate Black,Electric,Automatic,72159.67,2024-04-11,2024-07-23,Oklahoma,148320.6
+Ford Ranger,Carbonized Gray,Electric,Automatic,44878.86,2024-08-20,2024-11-13,Oklahoma,67302.9
+Ford Ranger,Rapid Red,Hybrid,Automatic,62631.47,2023-06-24,2023-09-28,Texas,45629.3
+Ford F-150,Agate Black,Diesel,Manual,56408.75,2023-09-08,2023-12-12,Oklahoma,131480.4
+Ford F-250 Super Duty,Iconic Silver,Electric,Automatic,50412.47,2024-07-25,2024-09-29,Michigan,144001.9
+Ford F-450 Super Duty,Stone Gray,Diesel,Automatic,46734.79,2023-09-12,2023-10-07,Florida,136879.8
+Ford F-350 Super Duty,Rapid Red,Hybrid,Automatic,44332.53,2025-05-23,2025-09-18,Oklahoma,109517.5
+Ford Ranger,Agate Black,Diesel,Automatic,85830.23,2023-08-13,2023-10-07,Ohio,67159.8
+Ford F-450 Super Duty,Carbonized Gray,Gasoline,Automatic,58238.27,2024-01-20,2024-04-29,Ohio,70127.6
+Ford F-350 Super Duty,Stone Gray,Diesel,Automatic,32920.95,2025-03-17,2025-07-03,Michigan,59126.9
+Ford Ranger,Agate Black,Hybrid,Manual,32493.56,2025-04-06,2025-06-04,Georgia,129115.4
+Ford F-250 Super Duty,Carbonized Gray,Hybrid,Automatic,34394.85,2025-01-30,2025-04-21,Oklahoma,134242.8
+Ford F-650,Antimatter Blue,Diesel,Manual,91989.06,2024-10-23,2025-01-17,Michigan,77036.1
+Ford Maverick,Oxford White,Diesel,Manual,37972.88,2024-09-28,2025-01-10,Ohio,111339.7
+Ford F-250 Super Duty,Agate Black,Gasoline,Manual,94585.52,2024-11-07,2025-01-09,California,126979.2
+Ford F-250 Super Duty,Carbonized Gray,Diesel,Manual,74538.03,2023-09-19,2023-11-03,Florida,104327.7
+Ford F-250 Super Duty,Iconic Silver,Hybrid,Automatic,58067.27,2024-09-28,2025-01-20,Pennsylvania,131349.0
+Ford F-150 Lightning,Antimatter Blue,Electric,Automatic,93510.96,2023-07-15,2023-11-06,Georgia,84841.8
+Ford F-250 Super Duty,Rapid Red,Diesel,Manual,46816.18,2024-11-29,2025-02-02,Ohio,78454.3
+Ford F-250 Super Duty,Carbonized Gray,Hybrid,Manual,36888.42,2024-08-30,2024-11-02,Florida,39578.7
+Ford F-750,Oxford White,Diesel,Manual,85167.25,2023-07-17,2023-10-29,Pennsylvania,106752.3
+Ford F-150,Iconic Silver,Diesel,Automatic,70241.15,2025-05-16,2025-07-08,Oklahoma,74714.1
+Ford F-150,Antimatter Blue,Hybrid,Automatic,57993.47,2023-07-08,2023-07-26,California,98869.3
+Ford F-150,Rapid Red,Gasoline,Automatic,71827.72,2024-04-06,2024-06-26,Michigan,105571.9
+Ford Ranger,Oxford White,Electric,Automatic,74259.29,2024-01-22,2024-03-21,Texas,159064.6
+Ford F-650,Rapid Red,Diesel,Manual,69536.03,2023-09-30,2023-11-18,California,65050.2
+Ford Ranger,Carbonized Gray,Diesel,Manual,44289.7,2024-04-09,2024-06-16,Ohio,142948.2
+Ford F-750,Iconic Silver,Diesel,Manual,56011.35,2024-07-24,2024-11-15,Oklahoma,137000.9
+Ford Ranger,Rapid Red,Hybrid,Manual,73422.9,2024-06-21,2024-10-18,Ohio,88841.5
+Ford F-650,Stone Gray,Hybrid,Automatic,47603.55,2024-08-11,2024-10-15,Michigan,30545.6
+Ford F-750,Antimatter Blue,Electric,Manual,53861.73,2024-05-31,2024-06-26,Oklahoma,151635.4
+Ford F-350 Super Duty,Antimatter Blue,Hybrid,Manual,34720.53,2024-07-28,2024-08-24,Georgia,30934.2
+Ford F-450 Super Duty,Iconic Silver,Electric,Automatic,73989.57,2024-03-30,2024-07-22,Ohio,46026.5
+Ford F-150,Agate Black,Electric,Automatic,63646.72,2024-11-13,2024-12-02,Michigan,55501.5
+Ford F-250 Super Duty,Oxford White,Hybrid,Manual,32168.42,2025-04-20,2025-07-04,California,111827.3
+Ford F-750,Oxford White,Diesel,Automatic,32666.5,2025-03-22,2025-07-15,Oklahoma,25262.5
+Ford F-350 Super Duty,Rapid Red,Hybrid,Automatic,72899.54,2024-08-01,2024-09-07,Texas,60347.9
+Ford F-150 Lightning,Iconic Silver,Hybrid,Automatic,92914.82,2024-09-08,2024-10-18,Oklahoma,102438.9
+Ford F-450 Super Duty,Oxford White,Hybrid,Automatic,32404.7,2025-01-15,2025-03-05,Florida,127996.3
+Ford F-250 Super Duty,Rapid Red,Electric,Automatic,82032.23,2024-12-24,2025-02-12,Michigan,114326.7
+Ford F-750,Iconic Silver,Diesel,Automatic,46468.16,2024-06-05,2024-07-08,Florida,47504.7
+Ford F-150 Lightning,Rapid Red,Diesel,Automatic,89683.27,2023-09-03,2023-11-05,Oklahoma,110166.4
+Ford F-650,Agate Black,Hybrid,Manual,34221.97,2023-07-31,2023-11-20,Georgia,34289.1
+Ford F-150 Lightning,Rapid Red,Diesel,Automatic,77761.31,2024-03-02,2024-05-27,Michigan,4071.2
+Ford Maverick,Oxford White,Diesel,Manual,44547.28,2023-11-12,2024-01-10,Pennsylvania,154074.5
+Ford Ranger,Antimatter Blue,Hybrid,Manual,89551.85,2023-10-17,2024-01-29,California,137736.2
+Ford Maverick,Antimatter Blue,Gasoline,Manual,52830.14,2024-04-02,2024-05-07,California,67908.3
+Ford F-250 Super Duty,Rapid Red,Diesel,Manual,33538.47,2023-09-26,2023-11-05,Texas,63425.6
+Ford F-650,Antimatter Blue,Diesel,Manual,66947.95,2024-12-20,2025-01-07,Texas,126450.1
+Ford F-350 Super Duty,Carbonized Gray,Gasoline,Automatic,54331.35,2023-12-08,2023-12-31,Florida,86617.8
+Ford F-650,Agate Black,Electric,Automatic,77118.12,2024-12-30,2025-01-09,Georgia,78728.7
+Ford F-150 Lightning,Oxford White,Hybrid,Automatic,39490.86,2024-04-28,2024-07-10,Pennsylvania,18329.8
+Ford F-250 Super Duty,Agate Black,Hybrid,Manual,83391.29,2024-03-28,2024-06-18,Texas,159828.9
+Ford F-250 Super Duty,Carbonized Gray,Electric,Automatic,55124.66,2023-12-11,2024-01-06,Georgia,20912.4
+Ford F-250 Super Duty,Stone Gray,Diesel,Manual,91242.54,2025-02-12,2025-05-21,Michigan,148238.8
+Ford F-450 Super Duty,Oxford White,Diesel,Manual,76422.77,2023-06-17,2023-07-23,California,10357.8
+Ford Maverick,Iconic Silver,Gasoline,Automatic,36139.1,2024-05-27,2024-09-24,California,104250.3
+Ford F-150 Lightning,Carbonized Gray,Diesel,Automatic,93193.46,2023-11-25,2023-12-03,Texas,84833.2
+Ford F-450 Super Duty,Carbonized Gray,Electric,Automatic,63791.27,2025-05-03,2025-08-22,Florida,112381.4
+Ford F-150 Lightning,Oxford White,Gasoline,Automatic,38223.0,2024-06-07,2024-08-25,Florida,142285.1
+Ford Maverick,Agate Black,Electric,Manual,29476.38,2025-04-01,2025-07-17,Ohio,37708.7
+Ford F-150 Lightning,Agate Black,Hybrid,Automatic,31783.0,2024-09-09,2024-11-16,Texas,113275.0
+Ford Ranger,Antimatter Blue,Diesel,Automatic,44252.03,2024-06-16,2024-06-26,Texas,142872.5
+Ford F-150 Lightning,Oxford White,Electric,Automatic,31134.48,2024-01-04,2024-03-28,Michigan,149903.7
+Ford F-250 Super Duty,Antimatter Blue,Electric,Manual,63613.13,2025-01-28,2025-02-08,Texas,80601.6
+Ford F-250 Super Duty,Iconic Silver,Hybrid,Manual,37126.34,2024-02-18,2024-05-01,Ohio,75344.9
+Ford F-650,Agate Black,Electric,Manual,66502.58,2023-07-05,2023-09-17,Michigan,70443.2
+Ford F-150 Lightning,Stone Gray,Hybrid,Automatic,34555.35,2024-10-05,2024-11-27,Georgia,138650.4
+Ford F-250 Super Duty,Stone Gray,Diesel,Automatic,48111.57,2024-10-19,2025-01-21,Oklahoma,34565.7
+Ford F-150 Lightning,Iconic Silver,Diesel,Automatic,76987.99,2025-01-10,2025-03-04,Pennsylvania,144616.0
+Ford Ranger,Stone Gray,Hybrid,Manual,68755.3,2024-06-06,2024-09-14,Texas,12598.1
+Ford F-150 Lightning,Agate Black,Electric,Automatic,28317.45,2024-12-21,2025-01-15,California,138874.2
+Ford Maverick,Iconic Silver,Hybrid,Automatic,55459.52,2024-02-25,2024-06-09,Florida,140989.3
+Ford F-650,Oxford White,Electric,Manual,73788.54,2024-01-19,2024-04-24,Michigan,58255.3
+Ford F-350 Super Duty,Stone Gray,Electric,Automatic,41063.13,2024-01-27,2024-02-25,Ohio,89684.1
+Ford Maverick,Iconic Silver,Electric,Manual,82154.3,2023-07-14,2023-09-10,Oklahoma,136399.0
+Ford F-250 Super Duty,Iconic Silver,Diesel,Manual,93358.41,2023-12-04,2024-02-20,Oklahoma,38738.9
+Ford F-250 Super Duty,Iconic Silver,Gasoline,Automatic,62825.44,2024-07-27,2024-08-21,Georgia,104684.6
+Ford F-450 Super Duty,Stone Gray,Electric,Automatic,34539.88,2023-10-27,2023-11-13,California,42764.4
+Ford F-350 Super Duty,Antimatter Blue,Gasoline,Automatic,58436.45,2024-10-10,2024-12-13,Pennsylvania,127121.3
+Ford F-650,Antimatter Blue,Electric,Manual,81568.93,2023-09-09,2023-11-10,Michigan,70176.5
+Ford F-350 Super Duty,Antimatter Blue,Diesel,Manual,59800.92,2024-05-09,2024-09-02,Ohio,54324.1
+Ford F-650,Iconic Silver,Hybrid,Manual,44308.05,2025-04-03,2025-08-01,Texas,148003.1
+Ford Ranger,Agate Black,Gasoline,Manual,80572.09,2023-11-16,2024-02-24,Oklahoma,121491.6
+Ford F-650,Iconic Silver,Hybrid,Manual,65162.46,2024-11-26,2024-12-11,Florida,145470.1
+Ford F-350 Super Duty,Carbonized Gray,Hybrid,Automatic,52679.96,2025-03-24,2025-05-30,Florida,82186.4
+Ford F-150 Lightning,Iconic Silver,Hybrid,Automatic,76555.12,2023-06-06,2023-06-29,Texas,106758.8
+Ford F-750,Agate Black,Gasoline,Manual,52714.29,2024-11-13,2025-01-13,Texas,78457.2
+Ford F-150,Antimatter Blue,Electric,Manual,49754.96,2023-12-30,2024-03-05,Florida,152083.7
+Ford Ranger,Rapid Red,Electric,Automatic,90611.68,2023-08-14,2023-09-08,Georgia,39145.3
+Ford F-650,Agate Black,Diesel,Manual,28332.46,2024-06-10,2024-09-19,Pennsylvania,115051.1
+Ford F-350 Super Duty,Stone Gray,Gasoline,Manual,36631.88,2024-07-17,2024-09-16,California,4120.2
+Ford F-150 Lightning,Agate Black,Electric,Automatic,89360.83,2023-12-07,2024-01-28,Ohio,31204.0
+Ford F-450 Super Duty,Oxford White,Hybrid,Automatic,64590.06,2025-05-10,2025-09-01,Pennsylvania,84273.3
+Ford F-150,Stone Gray,Hybrid,Manual,86953.79,2024-03-14,2024-05-08,California,45308.6
+Ford F-450 Super Duty,Agate Black,Gasoline,Automatic,44724.31,2023-06-20,2023-07-19,Georgia,98592.7
+Ford F-250 Super Duty,Rapid Red,Diesel,Automatic,59426.9,2024-09-30,2024-11-05,Michigan,112045.1
+Ford F-150 Lightning,Stone Gray,Diesel,Automatic,88338.54,2024-01-25,2024-04-07,Ohio,74153.8
+Ford F-350 Super Duty,Oxford White,Diesel,Manual,33098.41,2024-08-14,2024-10-17,California,71983.7
+Ford F-150,Carbonized Gray,Hybrid,Automatic,29358.39,2024-04-11,2024-05-04,Michigan,77305.6
+Ford F-150,Oxford White,Diesel,Manual,82704.51,2024-01-11,2024-02-18,Florida,50759.3
+Ford Ranger,Iconic Silver,Gasoline,Manual,70576.38,2024-10-29,2025-01-30,Ohio,12700.2
+Ford F-450 Super Duty,Antimatter Blue,Hybrid,Manual,60048.53,2024-08-21,2024-09-08,Oklahoma,128224.0
+Ford F-450 Super Duty,Carbonized Gray,Gasoline,Automatic,66092.14,2024-06-30,2024-09-01,Georgia,105232.9
+Ford F-150,Stone Gray,Gasoline,Manual,48982.37,2024-12-24,2025-03-26,Oklahoma,94093.9
+Ford F-350 Super Duty,Rapid Red,Gasoline,Manual,81320.34,2024-05-22,2024-07-19,Georgia,90594.9
+Ford F-250 Super Duty,Stone Gray,Gasoline,Manual,75396.6,2024-04-28,2024-08-05,Georgia,42703.5
+Ford F-250 Super Duty,Antimatter Blue,Diesel,Automatic,75160.96,2023-12-30,2024-01-25,Pennsylvania,3124.1
+Ford F-650,Iconic Silver,Diesel,Automatic,65711.46,2024-07-19,2024-10-25,California,46756.9
+Ford F-750,Iconic Silver,Electric,Automatic,34934.13,2025-03-24,2025-04-18,Florida,3311.2
+Ford F-150 Lightning,Stone Gray,Gasoline,Automatic,77820.01,2024-09-22,2024-12-05,Oklahoma,6763.6
+Ford Ranger,Oxford White,Electric,Manual,58540.9,2024-08-15,2024-12-04,Oklahoma,130535.4
+Ford Ranger,Carbonized Gray,Electric,Manual,73934.89,2023-10-26,2023-12-14,Oklahoma,32781.0
+Ford F-150 Lightning,Agate Black,Electric,Automatic,47220.34,2024-08-07,2024-09-01,Pennsylvania,69200.0
+Ford F-350 Super Duty,Antimatter Blue,Electric,Automatic,85718.38,2023-10-10,2023-11-16,Texas,14781.8
+Ford F-650,Carbonized Gray,Diesel,Manual,30968.44,2024-03-25,2024-07-11,Florida,70494.5
+Ford F-650,Antimatter Blue,Electric,Manual,55032.13,2024-08-26,2024-10-23,Ohio,111321.9
+Ford F-150,Oxford White,Electric,Manual,86208.19,2023-08-13,2023-10-08,Florida,125728.0
+Ford Ranger,Iconic Silver,Gasoline,Automatic,47543.51,2023-09-21,2023-11-29,Pennsylvania,45315.7
+Ford F-350 Super Duty,Rapid Red,Diesel,Automatic,61417.79,2024-03-10,2024-06-29,California,36073.6
+Ford F-150 Lightning,Rapid Red,Hybrid,Automatic,36086.01,2024-01-17,2024-04-08,Georgia,151871.3
+Ford Ranger,Oxford White,Gasoline,Manual,48303.33,2024-09-17,2024-10-21,Oklahoma,26676.5
+Ford F-650,Carbonized Gray,Diesel,Automatic,39402.87,2023-08-09,2023-11-23,Ohio,121392.5
+Ford Ranger,Agate Black,Electric,Automatic,68413.54,2024-05-12,2024-08-06,Ohio,22989.0
+Ford F-450 Super Duty,Antimatter Blue,Electric,Manual,68290.09,2025-01-03,2025-04-28,Ohio,87167.5
+Ford F-250 Super Duty,Iconic Silver,Gasoline,Automatic,58091.78,2024-06-17,2024-10-05,California,118642.0
+Ford Ranger,Antimatter Blue,Diesel,Automatic,31918.57,2024-07-18,2024-10-26,Pennsylvania,4331.5
+Ford Ranger,Iconic Silver,Diesel,Automatic,36810.75,2025-04-13,2025-05-08,Texas,52174.6
+Ford F-150 Lightning,Carbonized Gray,Electric,Automatic,84626.83,2024-05-03,2024-05-26,Oklahoma,124878.6
+Ford F-150 Lightning,Antimatter Blue,Diesel,Automatic,83720.41,2023-09-06,2023-09-24,Florida,50859.3
+Ford F-150 Lightning,Carbonized Gray,Gasoline,Automatic,48768.61,2024-05-17,2024-07-10,California,147714.6
+Ford F-250 Super Duty,Oxford White,Electric,Automatic,31405.64,2024-09-10,2024-12-04,Texas,48834.5
+Ford F-450 Super Duty,Agate Black,Diesel,Manual,53698.31,2024-05-27,2024-08-20,Texas,158229.8
+Ford F-150 Lightning,Carbonized Gray,Electric,Automatic,65377.98,2024-08-10,2024-08-24,Pennsylvania,23062.0
+Ford F-750,Iconic Silver,Electric,Manual,77684.55,2023-06-08,2023-08-13,Michigan,30042.7
+Ford Ranger,Rapid Red,Diesel,Manual,84067.14,2024-06-10,2024-07-13,Texas,62103.7
+Ford F-450 Super Duty,Agate Black,Gasoline,Automatic,89657.0,2024-03-27,2024-06-03,California,137282.6
+Ford F-750,Carbonized Gray,Hybrid,Automatic,67354.81,2025-05-19,2025-08-06,Georgia,20682.3
+Ford F-150 Lightning,Rapid Red,Electric,Automatic,32309.21,2025-01-12,2025-02-15,Ohio,11324.9
+Ford F-750,Stone Gray,Electric,Manual,55647.02,2024-04-27,2024-06-26,Michigan,17134.7
+Ford F-150,Iconic Silver,Gasoline,Manual,81249.89,2024-09-06,2024-11-10,Pennsylvania,95562.8
+Ford F-150 Lightning,Iconic Silver,Gasoline,Automatic,37006.72,2024-12-24,2025-02-06,Michigan,135448.4
+Ford Maverick,Rapid Red,Hybrid,Automatic,40301.07,2024-02-28,2024-05-16,Michigan,80540.7
+Ford Maverick,Rapid Red,Electric,Automatic,30588.13,2024-12-06,2025-03-24,Florida,36962.4
+Ford F-650,Iconic Silver,Diesel,Manual,92569.79,2025-05-14,2025-07-28,Ohio,149075.3
+Ford F-650,Agate Black,Diesel,Manual,85573.53,2024-07-12,2024-09-02,Michigan,134212.3
+Ford F-450 Super Duty,Iconic Silver,Gasoline,Automatic,67391.92,2024-02-16,2024-04-03,Georgia,6638.4
+Ford F-650,Stone Gray,Gasoline,Manual,46131.91,2024-12-18,2025-04-05,Pennsylvania,34413.8
+Ford Ranger,Rapid Red,Electric,Manual,38466.72,2024-10-31,2024-12-19,Florida,62441.7
+Ford F-450 Super Duty,Antimatter Blue,Hybrid,Manual,44217.58,2023-06-29,2023-07-18,Michigan,123042.0
+Ford F-150 Lightning,Oxford White,Gasoline,Automatic,91431.91,2025-01-30,2025-04-18,Pennsylvania,14408.3
+Ford F-150 Lightning,Agate Black,Gasoline,Automatic,88986.82,2023-10-26,2023-12-16,Florida,136802.1
+Ford F-650,Stone Gray,Electric,Manual,34974.14,2023-12-07,2024-01-10,Pennsylvania,143411.3
+Ford F-450 Super Duty,Rapid Red,Gasoline,Automatic,29478.89,2024-03-20,2024-06-21,Georgia,145731.9
+Ford F-150,Carbonized Gray,Electric,Manual,51590.94,2023-06-20,2023-07-18,Georgia,109486.8
+Ford F-650,Agate Black,Diesel,Manual,58900.63,2025-04-05,2025-06-03,Pennsylvania,94272.5
+Ford F-150 Lightning,Agate Black,Gasoline,Automatic,60121.4,2024-10-08,2025-01-21,California,23328.1
+Ford F-750,Carbonized Gray,Hybrid,Manual,60123.38,2025-03-15,2025-05-05,California,46443.6
+Ford F-150,Oxford White,Electric,Automatic,61528.6,2025-03-28,2025-06-08,Texas,142009.5
+Ford F-450 Super Duty,Iconic Silver,Electric,Manual,73437.92,2024-01-21,2024-03-12,Oklahoma,19813.2
+Ford F-750,Rapid Red,Gasoline,Manual,30349.34,2023-10-05,2024-01-07,Ohio,44708.8
+Ford Ranger,Antimatter Blue,Hybrid,Manual,37088.61,2025-01-31,2025-04-11,Georgia,129288.7
+Ford Maverick,Agate Black,Gasoline,Manual,85940.34,2025-02-21,2025-05-15,Oklahoma,28174.5
+Ford F-150,Iconic Silver,Gasoline,Automatic,78958.39,2023-12-16,2024-01-18,Michigan,68986.0
+Ford F-150,Rapid Red,Diesel,Automatic,83198.6,2024-04-25,2024-07-05,Georgia,154771.5
+Ford Ranger,Antimatter Blue,Hybrid,Manual,36356.97,2023-07-31,2023-10-13,Florida,138428.8
+Ford F-650,Antimatter Blue,Electric,Manual,92383.96,2024-01-13,2024-03-14,Ohio,6058.8
+Ford F-650,Antimatter Blue,Hybrid,Automatic,51318.49,2023-09-14,2023-10-30,Pennsylvania,66007.3
+Ford F-350 Super Duty,Agate Black,Diesel,Automatic,64689.26,2024-12-26,2025-01-02,Michigan,11904.6
+Ford F-350 Super Duty,Stone Gray,Diesel,Manual,34661.52,2025-02-08,2025-05-21,Florida,150329.6
+Ford F-250 Super Duty,Carbonized Gray,Electric,Automatic,69587.0,2023-09-04,2023-12-28,Florida,79986.3
+Ford F-750,Stone Gray,Gasoline,Automatic,42171.91,2023-08-02,2023-11-26,Florida,143634.1
+Ford F-650,Iconic Silver,Electric,Automatic,80452.92,2025-03-15,2025-05-08,Oklahoma,128335.3
+Ford F-650,Iconic Silver,Diesel,Manual,58705.59,2025-02-03,2025-05-24,Pennsylvania,134568.7
+Ford F-350 Super Duty,Agate Black,Electric,Manual,81440.05,2023-08-20,2023-09-08,Texas,48963.1
+Ford F-750,Carbonized Gray,Electric,Automatic,31185.17,2023-07-18,2023-08-15,Michigan,22184.9
+Ford F-650,Carbonized Gray,Hybrid,Manual,32695.17,2025-03-05,2025-06-02,Georgia,34727.4
+Ford F-650,Oxford White,Gasoline,Manual,42825.56,2025-01-12,2025-03-15,Texas,64729.0
+Ford Ranger,Carbonized Gray,Diesel,Automatic,68200.49,2024-11-29,2025-01-03,Georgia,144831.4
+Ford F-750,Rapid Red,Electric,Manual,33468.64,2023-07-31,2023-09-06,Oklahoma,50413.2
+Ford Ranger,Stone Gray,Electric,Manual,71815.74,2024-10-03,2024-11-26,Michigan,146163.8
+Ford Maverick,Carbonized Gray,Gasoline,Manual,43577.75,2024-01-29,2024-05-12,Ohio,156612.9
+Ford F-150 Lightning,Carbonized Gray,Hybrid,Automatic,35415.11,2023-11-12,2024-03-11,Texas,38164.8
+Ford F-250 Super Duty,Stone Gray,Gasoline,Automatic,92026.64,2024-02-21,2024-04-14,California,147808.0
+Ford Maverick,Iconic Silver,Diesel,Manual,60048.38,2025-03-15,2025-03-30,Georgia,115506.4
+Ford F-350 Super Duty,Oxford White,Diesel,Automatic,32342.81,2025-04-10,2025-05-13,Ohio,71718.8
+Ford Ranger,Stone Gray,Gasoline,Automatic,70493.39,2024-09-12,2024-10-17,Texas,32390.8
+Ford F-650,Agate Black,Hybrid,Manual,56795.0,2024-05-02,2024-05-15,Florida,18684.1
+Ford Ranger,Antimatter Blue,Electric,Manual,33880.69,2024-12-29,2025-01-09,Michigan,12075.3
+Ford F-250 Super Duty,Iconic Silver,Hybrid,Manual,83259.94,2023-10-06,2023-12-17,Pennsylvania,125030.4
+Ford F-150,Antimatter Blue,Hybrid,Automatic,90457.35,2024-03-17,2024-07-02,California,95701.7
+Ford Maverick,Antimatter Blue,Hybrid,Manual,45503.48,2023-07-12,2023-07-23,Georgia,95282.3
+Ford F-750,Rapid Red,Electric,Manual,86077.63,2025-03-18,2025-05-03,Texas,111068.9
+Ford F-250 Super Duty,Carbonized Gray,Electric,Manual,77079.7,2023-10-12,2023-11-02,Texas,145788.0
+Ford Ranger,Antimatter Blue,Hybrid,Manual,93731.88,2023-10-04,2023-11-22,Florida,103234.2
+Ford F-450 Super Duty,Rapid Red,Diesel,Manual,79796.71,2024-02-18,2024-04-28,Florida,14145.1
+Ford F-450 Super Duty,Iconic Silver,Hybrid,Manual,35447.91,2024-04-23,2024-05-20,Oklahoma,37700.2
+Ford Ranger,Stone Gray,Diesel,Manual,57186.56,2023-06-17,2023-06-28,California,35998.9
+Ford F-250 Super Duty,Stone Gray,Gasoline,Automatic,92944.25,2025-05-08,2025-07-16,Michigan,155758.9
+Ford F-250 Super Duty,Agate Black,Hybrid,Automatic,60243.73,2025-04-17,2025-06-06,Ohio,123874.2
+Ford F-450 Super Duty,Rapid Red,Gasoline,Automatic,69167.43,2023-12-17,2024-02-07,Georgia,26641.0
+Ford F-450 Super Duty,Carbonized Gray,Electric,Automatic,68798.42,2025-01-02,2025-02-15,Michigan,70525.9
+Ford F-750,Rapid Red,Hybrid,Automatic,79340.14,2025-01-03,2025-03-02,Ohio,21234.9
+Ford Maverick,Agate Black,Hybrid,Manual,32932.12,2024-02-29,2024-05-22,Michigan,35229.7
+Ford F-350 Super Duty,Iconic Silver,Electric,Manual,55507.22,2023-08-28,2023-09-25,Texas,67414.4
+Ford F-250 Super Duty,Agate Black,Gasoline,Automatic,48110.18,2024-09-23,2024-12-03,Michigan,37351.7
+Ford Maverick,Agate Black,Electric,Automatic,82695.27,2024-11-10,2025-03-07,Florida,50915.7
+Ford F-350 Super Duty,Rapid Red,Diesel,Manual,63815.33,2025-01-24,2025-04-03,Oklahoma,72628.7
+Ford F-250 Super Duty,Iconic Silver,Gasoline,Manual,48896.71,2025-02-25,2025-03-21,Michigan,76991.2
+Ford F-750,Oxford White,Electric,Automatic,29143.24,2025-01-22,2025-05-04,Michigan,71097.3
+Ford F-350 Super Duty,Stone Gray,Hybrid,Automatic,30346.77,2024-08-09,2024-10-26,Ohio,37608.2
+Ford F-250 Super Duty,Stone Gray,Electric,Manual,91822.13,2024-02-26,2024-06-02,Georgia,98638.2
+Ford Ranger,Rapid Red,Hybrid,Manual,74384.88,2025-03-21,2025-07-13,California,48638.5
+Ford F-150 Lightning,Carbonized Gray,Gasoline,Automatic,43007.66,2024-02-16,2024-03-14,Oklahoma,71486.0
+Ford F-450 Super Duty,Stone Gray,Electric,Manual,71463.59,2023-08-22,2023-10-10,Oklahoma,77109.0
+Ford Maverick,Stone Gray,Electric,Automatic,48036.09,2024-10-23,2025-01-06,Pennsylvania,82961.1
+Ford Maverick,Carbonized Gray,Electric,Automatic,53364.31,2024-06-01,2024-08-16,Georgia,147247.8
+Ford F-250 Super Duty,Rapid Red,Electric,Manual,65875.29,2024-01-12,2024-02-10,Oklahoma,123502.1
+Ford F-350 Super Duty,Iconic Silver,Electric,Automatic,29642.78,2024-02-26,2024-06-25,Ohio,80970.1
+Ford F-750,Oxford White,Diesel,Manual,41268.1,2025-03-23,2025-04-11,Ohio,97542.4
+Ford F-250 Super Duty,Rapid Red,Electric,Automatic,57873.7,2024-10-15,2025-01-04,Florida,157944.4
+Ford F-150 Lightning,Carbonized Gray,Electric,Automatic,77432.3,2025-04-17,2025-06-18,Florida,63645.3
+Ford Maverick,Iconic Silver,Diesel,Manual,49418.3,2025-02-11,2025-03-12,Texas,27025.8
+Ford F-250 Super Duty,Rapid Red,Diesel,Automatic,85183.55,2024-04-15,2024-06-23,California,101361.7
+Ford F-650,Antimatter Blue,Diesel,Automatic,59609.47,2024-07-15,2024-10-19,Pennsylvania,100244.0
+Ford F-150 Lightning,Agate Black,Gasoline,Automatic,42205.33,2024-04-11,2024-07-17,California,95543.4
+Ford F-250 Super Duty,Stone Gray,Diesel,Automatic,65291.75,2023-09-24,2023-12-17,Georgia,19552.9
+Ford F-150 Lightning,Carbonized Gray,Gasoline,Automatic,73748.88,2023-10-28,2024-01-07,California,27531.2
+Ford F-150,Rapid Red,Electric,Automatic,57712.42,2023-07-25,2023-08-06,Florida,125201.6
+Ford Maverick,Antimatter Blue,Electric,Automatic,65309.72,2024-03-24,2024-04-09,California,11395.2
+Ford F-750,Antimatter Blue,Electric,Manual,87392.67,2023-10-15,2024-02-08,Oklahoma,89715.3
+Ford F-250 Super Duty,Agate Black,Diesel,Automatic,46459.1,2023-12-02,2024-03-07,Oklahoma,65950.4
+Ford F-150,Stone Gray,Gasoline,Manual,86041.58,2024-10-20,2024-11-14,Florida,152066.1
+Ford F-350 Super Duty,Oxford White,Gasoline,Automatic,64670.53,2024-02-12,2024-04-20,Texas,137350.3
+Ford F-150 Lightning,Stone Gray,Electric,Automatic,67662.83,2025-01-02,2025-04-12,Ohio,66796.4
+Ford F-150 Lightning,Rapid Red,Gasoline,Automatic,64389.05,2025-03-05,2025-06-02,Oklahoma,113870.2
+Ford F-150 Lightning,Iconic Silver,Hybrid,Automatic,47380.84,2025-04-30,2025-08-23,Florida,154014.0
+Ford F-750,Oxford White,Gasoline,Manual,50158.53,2024-08-12,2024-11-14,Florida,158162.6
+Ford Maverick,Oxford White,Gasoline,Manual,59808.27,2024-03-22,2024-06-19,Michigan,23342.0
+Ford F-450 Super Duty,Agate Black,Hybrid,Automatic,88008.31,2024-07-23,2024-10-27,California,73518.3
+Ford Ranger,Iconic Silver,Diesel,Manual,90627.55,2024-10-31,2025-01-31,Georgia,106956.7
+Ford F-450 Super Duty,Iconic Silver,Diesel,Manual,60759.87,2024-10-11,2024-11-03,Ohio,39609.1
+Ford F-350 Super Duty,Carbonized Gray,Electric,Automatic,57398.73,2024-11-22,2025-02-10,Texas,98369.4
+Ford Maverick,Stone Gray,Hybrid,Automatic,49261.81,2023-11-09,2023-12-08,Michigan,113050.5
+Ford F-750,Antimatter Blue,Gasoline,Automatic,77453.86,2023-08-02,2023-11-25,Florida,128171.7
+Ford F-150,Oxford White,Electric,Automatic,47342.25,2023-11-08,2023-12-15,Ohio,142611.7
+Ford F-750,Oxford White,Hybrid,Manual,80140.17,2023-08-23,2023-12-04,Ohio,118916.3
+Ford F-150 Lightning,Iconic Silver,Hybrid,Automatic,92368.24,2023-12-27,2024-01-07,Georgia,150650.5
+Ford F-150 Lightning,Agate Black,Hybrid,Automatic,91547.41,2023-07-05,2023-09-11,Ohio,96095.5
+Ford F-750,Carbonized Gray,Electric,Automatic,50940.27,2025-01-17,2025-05-15,Ohio,16359.7
+Ford F-150 Lightning,Stone Gray,Electric,Automatic,68723.58,2023-06-10,2023-06-29,Texas,20973.3
+Ford F-350 Super Duty,Oxford White,Gasoline,Manual,79560.53,2025-03-17,2025-04-13,Pennsylvania,4682.1
+Ford F-650,Stone Gray,Electric,Manual,34043.68,2023-07-21,2023-08-14,Oklahoma,67491.4
+Ford F-650,Stone Gray,Diesel,Manual,87773.36,2024-06-08,2024-07-13,Texas,29948.6
+Ford F-150,Iconic Silver,Diesel,Automatic,54382.09,2025-01-25,2025-04-12,Georgia,52760.1
+Ford Ranger,Rapid Red,Gasoline,Manual,86051.75,2024-02-21,2024-06-03,Florida,114881.0
+Ford F-650,Agate Black,Gasoline,Manual,70504.79,2023-12-01,2023-12-26,Pennsylvania,50222.1
+Ford F-350 Super Duty,Rapid Red,Hybrid,Automatic,43741.21,2023-08-11,2023-11-08,Florida,159475.8
+Ford Maverick,Stone Gray,Hybrid,Automatic,63284.08,2024-09-30,2025-01-12,Pennsylvania,95888.6
+Ford F-650,Iconic Silver,Diesel,Manual,88034.19,2025-03-15,2025-05-02,Ohio,156376.9
+Ford F-250 Super Duty,Oxford White,Gasoline,Manual,77296.75,2023-09-11,2023-10-27,Michigan,137424.6
+Ford F-150,Oxford White,Electric,Automatic,67630.78,2024-06-30,2024-10-12,California,158575.0
+Ford F-250 Super Duty,Agate Black,Diesel,Manual,65889.84,2024-08-10,2024-10-08,Ohio,46050.4
+Ford Ranger,Oxford White,Hybrid,Automatic,72883.6,2023-11-28,2024-02-09,Michigan,83792.4
+Ford Maverick,Antimatter Blue,Hybrid,Manual,37257.11,2024-04-22,2024-06-27,Florida,129447.0
+Ford F-750,Oxford White,Diesel,Automatic,91901.34,2023-07-02,2023-08-11,Texas,138769.9
+Ford F-150,Agate Black,Diesel,Manual,37019.44,2023-12-28,2024-02-20,Florida,60483.0
+Ford F-250 Super Duty,Rapid Red,Diesel,Manual,72164.54,2023-12-26,2024-02-11,Ohio,57781.8
+Ford F-450 Super Duty,Oxford White,Diesel,Automatic,51583.05,2023-06-26,2023-07-16,Florida,152847.8
+Ford Ranger,Agate Black,Electric,Manual,85797.77,2023-10-11,2023-12-21,Florida,118552.8
+Ford F-250 Super Duty,Oxford White,Gasoline,Automatic,58566.46,2023-06-10,2023-09-10,California,139943.1
+Ford Maverick,Iconic Silver,Hybrid,Manual,53046.9,2025-01-11,2025-05-05,Ohio,135623.1
+Ford Maverick,Iconic Silver,Electric,Manual,92758.53,2025-02-03,2025-04-24,California,135328.4
+Ford F-350 Super Duty,Stone Gray,Diesel,Automatic,32880.15,2024-10-16,2024-12-16,Oklahoma,145293.5
+Ford Maverick,Oxford White,Gasoline,Automatic,31119.42,2023-10-07,2024-01-01,Ohio,40406.1
+Ford F-150 Lightning,Agate Black,Gasoline,Automatic,72246.21,2023-11-11,2023-12-17,Michigan,62659.5
+Ford Ranger,Iconic Silver,Hybrid,Manual,64771.19,2025-03-11,2025-05-07,Michigan,157815.5
+Ford F-150 Lightning,Antimatter Blue,Diesel,Automatic,92765.7,2025-01-06,2025-02-23,Michigan,50667.7
+Ford Maverick,Antimatter Blue,Gasoline,Manual,43747.19,2023-11-09,2024-01-22,Pennsylvania,2769.8
+Ford F-650,Stone Gray,Hybrid,Manual,63044.58,2024-02-19,2024-05-03,Michigan,4986.6
+Ford F-150,Iconic Silver,Electric,Automatic,70200.23,2024-06-25,2024-08-14,Florida,128488.8
+Ford Ranger,Carbonized Gray,Electric,Automatic,91512.81,2023-08-04,2023-10-31,Ohio,39253.9
+Ford F-150 Lightning,Antimatter Blue,Diesel,Automatic,47450.0,2023-10-06,2023-12-03,Michigan,132210.1
+Ford Maverick,Carbonized Gray,Electric,Automatic,82528.47,2023-10-20,2024-01-08,Florida,26846.3
+Ford F-250 Super Duty,Agate Black,Gasoline,Manual,72991.9,2025-03-01,2025-05-03,Georgia,9039.2
+Ford F-450 Super Duty,Antimatter Blue,Diesel,Automatic,66600.89,2024-08-26,2024-11-10,California,120960.0
+Ford F-450 Super Duty,Stone Gray,Diesel,Manual,59518.46,2025-01-14,2025-04-28,Georgia,81927.7
+Ford Maverick,Rapid Red,Gasoline,Automatic,58490.62,2024-02-03,2024-04-28,Georgia,41844.0
+Ford F-350 Super Duty,Antimatter Blue,Hybrid,Automatic,31973.74,2024-12-23,2025-01-10,Georgia,45319.2
+Ford Ranger,Iconic Silver,Hybrid,Automatic,53599.29,2024-04-02,2024-04-13,Georgia,122674.6
+Ford Ranger,Antimatter Blue,Electric,Manual,71624.98,2024-08-05,2024-11-09,California,2550.4
+Ford F-150,Rapid Red,Hybrid,Automatic,57912.11,2024-10-05,2024-11-11,Georgia,14080.2
+Ford Ranger,Agate Black,Electric,Automatic,70710.35,2023-10-29,2023-12-31,Oklahoma,80225.6
+Ford F-650,Rapid Red,Hybrid,Manual,51168.26,2023-11-28,2024-01-10,Oklahoma,126504.9
+Ford F-650,Rapid Red,Hybrid,Automatic,92537.76,2024-03-14,2024-06-07,Georgia,78502.9
+Ford F-250 Super Duty,Stone Gray,Electric,Manual,51094.52,2024-02-17,2024-05-03,Michigan,100343.6
+Ford F-150,Stone Gray,Diesel,Automatic,48453.53,2024-04-11,2024-06-19,Oklahoma,65661.4
+Ford F-150 Lightning,Agate Black,Gasoline,Automatic,59247.44,2023-07-29,2023-08-25,Texas,65729.7
+Ford F-450 Super Duty,Stone Gray,Electric,Manual,42802.63,2024-05-27,2024-07-21,Florida,25562.7
+Ford F-150 Lightning,Agate Black,Electric,Automatic,53287.73,2025-01-05,2025-04-22,Oklahoma,53982.8
+Ford F-150,Agate Black,Electric,Manual,60145.48,2024-05-07,2024-07-17,Pennsylvania,155855.1
+Ford F-450 Super Duty,Antimatter Blue,Gasoline,Manual,68055.18,2024-07-21,2024-11-18,Georgia,23833.5
+Ford F-750,Rapid Red,Diesel,Manual,45346.28,2025-01-24,2025-05-17,Florida,56497.1
+Ford F-150 Lightning,Antimatter Blue,Gasoline,Automatic,62450.8,2023-11-15,2024-03-10,California,68796.6
+Ford F-150,Iconic Silver,Diesel,Automatic,77793.78,2025-03-15,2025-04-21,Pennsylvania,154950.8
+Ford Maverick,Rapid Red,Gasoline,Automatic,30801.36,2024-11-20,2025-03-18,Texas,35988.6
+Ford F-150 Lightning,Rapid Red,Hybrid,Automatic,70354.1,2025-05-08,2025-08-15,Michigan,74009.9
+Ford F-150,Iconic Silver,Hybrid,Manual,42281.89,2023-11-05,2023-12-03,Florida,71195.8
+Ford Maverick,Iconic Silver,Diesel,Automatic,62233.42,2025-04-20,2025-06-08,Ohio,157843.6
+Ford Maverick,Antimatter Blue,Gasoline,Automatic,52220.18,2024-04-22,2024-06-22,Pennsylvania,108710.4
+Ford F-450 Super Duty,Rapid Red,Hybrid,Manual,55464.97,2025-05-07,2025-05-22,California,130376.4
+Ford F-150 Lightning,Antimatter Blue,Electric,Automatic,56581.21,2023-07-31,2023-11-21,Pennsylvania,74781.5
+Ford Maverick,Agate Black,Hybrid,Manual,46137.28,2024-03-05,2024-07-01,Michigan,93684.4
+Ford F-150,Antimatter Blue,Hybrid,Manual,66945.45,2024-05-15,2024-09-02,Georgia,138142.1
+Ford Ranger,Rapid Red,Electric,Automatic,62501.44,2023-07-10,2023-08-31,California,50241.2
+Ford Maverick,Oxford White,Electric,Manual,63074.11,2023-11-25,2024-01-04,Ohio,83187.8
+Ford F-650,Oxford White,Diesel,Automatic,43225.15,2023-08-30,2023-11-29,Texas,115614.9
+Ford Ranger,Antimatter Blue,Gasoline,Automatic,49991.51,2024-11-17,2025-02-03,Florida,153386.0
+Ford F-150 Lightning,Iconic Silver,Electric,Automatic,38572.83,2024-12-09,2024-12-25,Texas,52274.1
+Ford F-150 Lightning,Stone Gray,Electric,Automatic,67295.55,2024-06-26,2024-09-21,Texas,144870.2
+Ford F-350 Super Duty,Stone Gray,Gasoline,Manual,30966.06,2024-05-23,2024-07-25,Pennsylvania,122964.0
+Ford F-450 Super Duty,Iconic Silver,Hybrid,Manual,45577.41,2023-06-14,2023-09-14,Oklahoma,13740.0
+Ford Maverick,Iconic Silver,Electric,Automatic,66881.06,2025-03-08,2025-06-18,Ohio,126487.3
+Ford F-250 Super Duty,Stone Gray,Diesel,Manual,62699.27,2025-05-06,2025-06-30,Georgia,63244.0
+Ford F-250 Super Duty,Stone Gray,Hybrid,Automatic,59973.32,2023-06-30,2023-07-31,California,90185.4
+Ford F-150,Oxford White,Gasoline,Automatic,67194.47,2024-08-15,2024-11-03,Ohio,114765.0
+Ford F-350 Super Duty,Oxford White,Electric,Automatic,77613.62,2024-01-30,2024-03-22,California,114725.9
+Ford F-250 Super Duty,Agate Black,Hybrid,Automatic,90445.28,2024-07-22,2024-10-19,Florida,4059.6
+Ford F-450 Super Duty,Agate Black,Gasoline,Automatic,84087.87,2023-11-22,2024-02-10,Texas,46572.4
+Ford F-150 Lightning,Carbonized Gray,Electric,Automatic,49175.83,2023-08-21,2023-09-23,Ohio,104523.3
+Ford F-450 Super Duty,Antimatter Blue,Gasoline,Automatic,28106.73,2024-03-26,2024-06-11,Michigan,168.8
+Ford F-150,Iconic Silver,Electric,Manual,38505.74,2023-08-21,2023-11-13,Oklahoma,76184.8
+Ford F-350 Super Duty,Antimatter Blue,Diesel,Manual,55222.41,2024-09-17,2024-12-03,Texas,67351.3
+Ford F-350 Super Duty,Rapid Red,Gasoline,Manual,55487.72,2025-02-06,2025-02-18,Ohio,117354.4
+Ford F-250 Super Duty,Agate Black,Hybrid,Automatic,34769.05,2023-10-07,2024-01-09,Pennsylvania,117699.1
+Ford F-650,Agate Black,Electric,Automatic,52382.59,2023-12-19,2024-01-24,Texas,52930.9
+Ford F-650,Agate Black,Electric,Manual,60369.38,2023-08-17,2023-08-29,Pennsylvania,88813.2
+Ford Maverick,Iconic Silver,Diesel,Manual,62338.53,2024-06-09,2024-06-19,Oklahoma,28735.5
+Ford F-150,Rapid Red,Hybrid,Manual,90130.54,2024-08-10,2024-09-04,Texas,1472.5
+Ford F-250 Super Duty,Iconic Silver,Hybrid,Automatic,73275.56,2023-12-19,2024-02-22,Ohio,3605.4
+Ford F-650,Rapid Red,Gasoline,Automatic,43776.91,2024-10-23,2024-12-22,Pennsylvania,131682.9
+Ford F-150 Lightning,Iconic Silver,Electric,Automatic,93622.57,2023-11-21,2024-01-09,Ohio,112608.7
+Ford F-150 Lightning,Carbonized Gray,Hybrid,Automatic,68050.82,2024-09-09,2024-10-01,Georgia,145590.7
+Ford F-650,Oxford White,Diesel,Automatic,76285.31,2025-01-12,2025-03-03,Pennsylvania,150761.3
+Ford F-150 Lightning,Oxford White,Diesel,Automatic,81958.4,2024-02-24,2024-05-16,Pennsylvania,89688.7
+Ford F-650,Stone Gray,Electric,Automatic,60147.64,2024-10-11,2025-01-30,Ohio,33612.7
+Ford F-350 Super Duty,Carbonized Gray,Hybrid,Manual,35097.98,2024-04-01,2024-06-14,Oklahoma,137687.9
+Ford F-150 Lightning,Carbonized Gray,Diesel,Automatic,77358.71,2023-08-15,2023-11-05,Michigan,128238.5
+Ford Maverick,Antimatter Blue,Hybrid,Manual,32026.27,2024-01-05,2024-03-30,Georgia,2260.3
+Ford F-750,Carbonized Gray,Gasoline,Automatic,77716.34,2024-01-23,2024-03-31,Oklahoma,122182.4
+Ford F-650,Oxford White,Diesel,Manual,75692.46,2024-02-12,2024-03-02,Georgia,113563.8
+Ford F-750,Stone Gray,Diesel,Manual,47929.53,2023-10-13,2023-12-05,Georgia,116113.9
+Ford Ranger,Carbonized Gray,Electric,Automatic,89714.02,2024-01-05,2024-02-10,Florida,4249.6
+Ford Maverick,Carbonized Gray,Gasoline,Automatic,94198.56,2025-03-24,2025-04-04,Florida,92078.4
+Ford F-750,Antimatter Blue,Electric,Manual,37989.48,2025-03-03,2025-03-11,California,86087.2
+Ford F-750,Agate Black,Electric,Manual,29692.49,2023-12-10,2024-01-19,Michigan,99335.8
+Ford Ranger,Stone Gray,Diesel,Automatic,65918.94,2024-07-10,2024-08-15,Oklahoma,91747.9
+Ford F-750,Carbonized Gray,Diesel,Manual,89759.95,2024-06-10,2024-07-19,Ohio,17733.6
+Ford F-350 Super Duty,Carbonized Gray,Hybrid,Manual,71447.45,2023-08-19,2023-09-20,Georgia,107066.2
+Ford Maverick,Carbonized Gray,Diesel,Automatic,30855.04,2025-01-16,2025-03-31,Michigan,127731.0
+Ford Maverick,Stone Gray,Hybrid,Automatic,88588.91,2024-02-13,2024-05-30,Georgia,133490.7
+Ford F-150,Agate Black,Hybrid,Manual,65540.19,2024-04-06,2024-06-07,Michigan,46507.9
+Ford Ranger,Rapid Red,Electric,Automatic,54899.65,2025-05-06,2025-05-28,Ohio,89184.4
+Ford Ranger,Agate Black,Diesel,Automatic,76620.95,2024-09-27,2024-11-07,Pennsylvania,101733.4
+Ford F-650,Agate Black,Electric,Automatic,73521.72,2025-04-23,2025-06-22,Pennsylvania,122646.3
+Ford Ranger,Iconic Silver,Gasoline,Automatic,41890.61,2024-12-09,2025-01-06,Oklahoma,61932.5
+Ford F-650,Carbonized Gray,Hybrid,Manual,36536.72,2024-10-20,2025-02-03,Florida,120934.7
+Ford F-150 Lightning,Carbonized Gray,Hybrid,Automatic,52074.3,2024-02-28,2024-05-23,California,141571.5
+Ford F-350 Super Duty,Carbonized Gray,Electric,Manual,42325.36,2025-05-23,2025-07-28,Florida,82526.9
+Ford F-150,Antimatter Blue,Hybrid,Manual,44652.25,2025-02-03,2025-03-17,Georgia,100838.6
+Ford F-350 Super Duty,Agate Black,Gasoline,Automatic,58613.35,2024-06-24,2024-07-03,Texas,79145.3
+Ford Ranger,Carbonized Gray,Diesel,Automatic,67147.86,2024-05-28,2024-09-15,Georgia,37699.4
+Ford F-250 Super Duty,Oxford White,Gasoline,Automatic,58946.25,2024-04-27,2024-05-10,Florida,44274.3
+Ford F-150 Lightning,Rapid Red,Electric,Automatic,82018.94,2024-03-13,2024-05-06,California,46478.5
+Ford F-350 Super Duty,Iconic Silver,Diesel,Automatic,88560.3,2024-06-26,2024-09-09,Texas,69468.0
+Ford Maverick,Agate Black,Gasoline,Automatic,40573.98,2024-11-06,2025-01-21,Michigan,16444.8
+Ford F-650,Carbonized Gray,Electric,Manual,72773.17,2023-10-16,2024-01-27,Michigan,67944.7
+Ford F-150 Lightning,Carbonized Gray,Gasoline,Automatic,51295.15,2023-06-07,2023-06-17,Pennsylvania,2483.5
+Ford F-150,Agate Black,Hybrid,Manual,52527.2,2024-10-30,2025-01-11,Texas,10920.4
+Ford F-150,Antimatter Blue,Diesel,Automatic,35602.61,2025-02-24,2025-04-06,Florida,12669.5
+Ford Maverick,Oxford White,Electric,Automatic,52655.33,2025-02-21,2025-05-16,Ohio,81218.8
+Ford Maverick,Antimatter Blue,Diesel,Automatic,85946.81,2025-03-26,2025-07-04,Florida,146868.6
+Ford F-150,Agate Black,Hybrid,Manual,90919.71,2024-11-17,2024-11-24,California,61037.7
+Ford F-450 Super Duty,Carbonized Gray,Diesel,Manual,74012.77,2023-07-30,2023-11-23,Michigan,71664.0
+Ford Ranger,Carbonized Gray,Electric,Manual,32522.15,2024-11-07,2025-01-22,Ohio,123462.1
+Ford F-250 Super Duty,Oxford White,Gasoline,Automatic,85623.38,2023-06-29,2023-10-06,Pennsylvania,131386.7
+Ford Maverick,Agate Black,Electric,Automatic,45504.33,2024-10-23,2024-11-04,California,59799.3
+Ford F-350 Super Duty,Agate Black,Hybrid,Manual,76699.01,2025-05-22,2025-06-07,Georgia,22425.5
+Ford F-250 Super Duty,Stone Gray,Hybrid,Manual,51091.08,2024-08-29,2024-12-10,California,103757.2
+Ford Maverick,Rapid Red,Diesel,Manual,72972.96,2025-04-24,2025-05-19,Georgia,85428.0
+Ford F-650,Oxford White,Gasoline,Automatic,38294.64,2024-08-17,2024-10-19,Pennsylvania,20964.6
+Ford Maverick,Stone Gray,Hybrid,Automatic,50569.12,2023-09-04,2023-09-20,Ohio,26045.3
+Ford Maverick,Iconic Silver,Electric,Automatic,31979.99,2023-09-05,2023-09-13,Oklahoma,153041.6
+Ford F-150 Lightning,Stone Gray,Gasoline,Automatic,89442.76,2023-10-18,2023-12-28,Oklahoma,123484.5
+Ford F-250 Super Duty,Agate Black,Hybrid,Automatic,64246.71,2024-09-27,2024-10-30,Pennsylvania,7357.8
+Ford Maverick,Rapid Red,Electric,Manual,46575.92,2024-01-08,2024-02-05,Ohio,133556.9
+Ford F-150 Lightning,Carbonized Gray,Hybrid,Automatic,31925.04,2024-03-02,2024-06-04,Texas,35185.2
+Ford F-750,Rapid Red,Electric,Automatic,57303.31,2024-08-10,2024-10-25,Pennsylvania,44591.3
+Ford F-450 Super Duty,Rapid Red,Electric,Automatic,84662.29,2023-11-20,2023-12-11,Ohio,70869.7
+Ford Ranger,Carbonized Gray,Gasoline,Manual,43976.98,2024-08-19,2024-11-21,California,76783.0
+Ford F-250 Super Duty,Oxford White,Gasoline,Manual,52700.65,2025-04-09,2025-07-09,Michigan,126169.2
+Ford F-650,Oxford White,Gasoline,Automatic,87389.64,2024-07-09,2024-09-09,Michigan,1936.7
+Ford F-150 Lightning,Stone Gray,Hybrid,Automatic,35327.99,2024-07-13,2024-09-13,Ohio,65337.5
+Ford F-750,Antimatter Blue,Diesel,Manual,59446.68,2025-02-15,2025-04-12,California,119364.9
+Ford F-750,Iconic Silver,Gasoline,Manual,72588.31,2025-04-26,2025-07-24,Ohio,68011.5
+Ford F-150 Lightning,Carbonized Gray,Hybrid,Automatic,55858.92,2024-05-14,2024-06-26,Georgia,67196.5
+Ford F-650,Stone Gray,Hybrid,Manual,82824.12,2025-02-02,2025-04-01,Pennsylvania,13808.8
+Ford F-750,Iconic Silver,Hybrid,Manual,66620.71,2023-10-21,2023-12-27,Michigan,47120.1
+Ford F-450 Super Duty,Agate Black,Hybrid,Manual,52417.32,2024-01-31,2024-04-04,Pennsylvania,108767.9
+Ford F-350 Super Duty,Oxford White,Gasoline,Manual,89831.13,2024-03-05,2024-06-02,Michigan,63615.6
+Ford F-450 Super Duty,Agate Black,Diesel,Manual,32970.82,2023-07-22,2023-08-18,Oklahoma,88990.8
+Ford F-650,Oxford White,Hybrid,Automatic,67764.36,2025-03-28,2025-06-23,Georgia,148102.8
+Ford F-150 Lightning,Oxford White,Hybrid,Automatic,52855.07,2025-03-08,2025-03-26,Ohio,96084.1
+Ford Maverick,Rapid Red,Hybrid,Automatic,70602.18,2025-02-08,2025-03-17,Ohio,119457.3
+Ford Ranger,Stone Gray,Diesel,Automatic,46486.41,2024-07-20,2024-09-27,Florida,125524.7
+Ford Ranger,Oxford White,Diesel,Manual,72826.98,2023-11-09,2024-01-28,California,60780.4
+Ford F-750,Carbonized Gray,Diesel,Manual,30882.05,2023-08-20,2023-12-12,Texas,25406.1
+Ford F-650,Agate Black,Electric,Automatic,90148.87,2023-11-13,2023-11-26,Ohio,108140.8
+Ford F-250 Super Duty,Oxford White,Electric,Manual,47056.47,2025-02-26,2025-05-09,Michigan,52141.2
+Ford F-450 Super Duty,Carbonized Gray,Electric,Manual,38332.63,2025-02-24,2025-03-12,Florida,23602.0
+Ford F-350 Super Duty,Oxford White,Gasoline,Manual,63495.19,2024-08-10,2024-10-26,Texas,34835.2
+Ford F-250 Super Duty,Oxford White,Gasoline,Manual,51372.06,2024-07-21,2024-11-08,Texas,21696.1
+Ford F-650,Iconic Silver,Diesel,Manual,38573.29,2024-08-18,2024-12-13,Florida,89835.0
+Ford Ranger,Oxford White,Gasoline,Manual,53912.11,2024-11-01,2024-12-29,California,61481.1
+Ford Maverick,Agate Black,Electric,Automatic,82872.04,2025-01-13,2025-03-16,Michigan,92871.7
+Ford F-450 Super Duty,Rapid Red,Hybrid,Manual,87439.76,2025-01-08,2025-03-10,Georgia,93215.2
+Ford F-150 Lightning,Iconic Silver,Electric,Automatic,66527.31,2024-01-18,2024-03-19,California,97480.7
+Ford F-350 Super Duty,Oxford White,Electric,Automatic,48583.6,2025-05-10,2025-08-25,Florida,101723.1
+Ford Maverick,Agate Black,Electric,Manual,81269.79,2024-04-27,2024-06-09,Ohio,73471.2
+Ford F-250 Super Duty,Agate Black,Diesel,Manual,78889.54,2024-07-19,2024-10-25,Ohio,26700.5
+Ford F-650,Carbonized Gray,Gasoline,Automatic,75095.42,2024-03-22,2024-05-08,Georgia,65115.2
+Ford F-150 Lightning,Carbonized Gray,Hybrid,Automatic,63299.42,2023-10-06,2024-01-18,Michigan,95620.1
+Ford Ranger,Oxford White,Hybrid,Manual,70361.15,2024-01-23,2024-03-06,Florida,817.3
+Ford Maverick,Oxford White,Diesel,Automatic,45503.77,2024-10-27,2024-11-26,Georgia,135504.9
+Ford F-750,Oxford White,Electric,Automatic,33628.7,2024-09-17,2024-11-20,Michigan,94523.9
+Ford Ranger,Iconic Silver,Electric,Manual,40400.29,2024-10-22,2024-10-31,Michigan,84321.5
+Ford F-750,Oxford White,Diesel,Automatic,49818.54,2023-07-08,2023-09-28,Pennsylvania,74428.3
